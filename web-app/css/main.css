@@ -1,0 +1,80 @@
+#pageTitle {
+	font-size: 2em;
+	color: maroon;
+}
+
+#pageTitle .thicker {
+	font-weight: bold;
+}
+
+#pageTitle .indented {
+	margin-left: 1em;
+}
+
+td.inputLabel {
+	text-align: right;
+	white-space: nowrap;
+	background-color: black;
+	/* CSS3 standard */
+  	opacity:0.8;
+}
+
+p.required {
+	margin-left: 25em;
+	font-style: italic;
+	color: #ccc;
+	background-color: black;
+	/* CSS3 standard */
+  	opacity:0.8;
+  	width: 22em;
+  	text-align: center;
+}
+
+table {
+	width: auto;
+	margin-left: 10em;
+	border: none;
+
+}
+
+p.finishUp {
+	padding-left: 18em;
+	background-image: url(../images/transparent_grey.png);
+	margin-right: auto;
+}
+
+div.content {
+	width: 960px;
+	background-color: #88b8f8;
+	background-image: url(../images/ramsey_county.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	margin-left: none;
+	margin-right: none;
+	padding-left: none;
+	padding-right: none;
+	min-height: 600px;
+	color: white;
+}
+
+input {
+	padding: 2px;
+	border: thin solid grey;
+}
+
+#pageTitle {
+	padding-top: 0.8em;
+	padding-left: 2em;
+}
+#forMoreInfo {
+	font-size: 1.3em;
+	font-weight: bolder;
+	padding-left: 3em;
+}
+
+a:hover, a:visited, a:link {
+	color: maroon;
+}
+a:active {
+	color: gold;
+}
