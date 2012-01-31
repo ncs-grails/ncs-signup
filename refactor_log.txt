@@ -1,0 +1,6 @@
+Starting Process at Tue Jan 31 16:59:05 CST 2012
+Updating Config.groovy
+Moving DataSource.groovy to /home/AD/ajz/development/grails/ncs/config/development/ncs-signup-config.groovy
+Adding security plugin dependencies to grails-app/conf/BuildConfig.groovy
+Removing plugins.umn-acegi from application.properties
+./grails-app/controllers/edu/umn/ncs/signup/StudyInterestController.groovy	Updating	Annotation	grails.plugins.springsecurity.Secured

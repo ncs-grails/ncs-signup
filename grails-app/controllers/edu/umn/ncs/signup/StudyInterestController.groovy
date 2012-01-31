@@ -1,6 +1,6 @@
 package edu.umn.ncs.signup
 
-import org.codehaus.groovy.grails.plugins.springsecurity.Secured
+import grails.plugins.springsecurity.Secured
 
 class StudyInterestController {
 
